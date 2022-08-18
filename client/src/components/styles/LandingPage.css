@@ -1,0 +1,45 @@
+.landingPage{
+    background-image: url("https://fondosmil.com/fondo/14763.jpg");
+    background-size: cover;
+    width:100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    -webkit-text-stroke: 2px black;
+    color: red; 
+    font-size: xx-large;
+  }
+  .landingPage div{
+    
+    border-radius: 5px;
+    margin-bottom: 500px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .landingPage div button{
+    margin-right: 0px;
+    bottom: 100px;
+        padding: 15px 25px;
+        font-size: 20px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        text-decoration-color: black;
+        outline: none;
+        color: black;
+        background-color: #e60e0e;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px rgb(228, 74, 74);
+        font-family: 'Helvetica';
+        font-weight: bold;
+        transition: 0.4s;
+  }
+  
+  .landingPage div button:hover{
+    background-color: #b85f5f;
+    color: white;
+  }

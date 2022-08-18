@@ -1,0 +1,49 @@
+/* .Title {
+    font-size: 25px;
+    font-weight: bold;
+    color: #fcf4f4;
+    margin-top: 3px;
+    margin-bottom: 20px;
+  }
+  
+  .Caption {
+    font-size: 17px;
+    font-weight: bold;
+    color: #fafafa;
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  .bodyCard {
+    border: 3px solid rgb(8, 8, 8);
+    background-color: black;
+    opacity: .5;
+    color: #0eabe9;
+    border-radius: 17px;
+  } */
+
+  .pokeCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(68, 67, 67, 0.356);
+    border: 2px rgba(68, 67, 67, 0.356);
+    border-radius: 20px;
+    margin: 2rem;
+    max-width: 200px;
+    min-width: 100px;
+    min-height: 100px ;
+}
+
+.img_cointainer img{
+    max-width: 30rem;
+    max-height: 37rem;
+}
+.pokeTypes{
+    margin: 5px;
+}
+.pokeAttack{
+    margin: 5px;
+}
+.pokeName{
+  align-items: center;
+}

@@ -187,4 +187,5 @@ __IMPORTANTE__: No está permitido utilizar los filtrados, ordenamientos y pagin
 - [ ] Al menos tener un modelo de la base de datos con sus tests respectivos
 #   P I - P O K E M O N S  
  #   P I - P O K E M O N  
+ #   P I - P O K E M O N  
  
